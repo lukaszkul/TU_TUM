@@ -1,0 +1,36 @@
+{
+    "title": "The Chronicles of Light and Magic - Book I",
+    "chapters":
+    [
+        {
+            "id": 1,
+            "title": "THE OTHER BEING",
+            "path": "./Chapters/Ch001/Ch001.txt"
+        },
+        {
+            "id": 2,
+            "title": "UNREAL VIVIFY",
+            "path": "./Chapters/Ch002/Ch002.txt"
+        },    
+        {
+            "id": 3,
+            "title": "LIVING WITH A CAT. OR TWO. OR FIVE.",
+            "path": "./Chapters/Ch003/Ch003.txt"
+        },    
+        {
+            "id": 4,
+            "title": "CRAFTMANSHIP OF LIGHT",
+            "path": "./Chapters/Ch004/Ch004.txt"
+        },    
+        {
+            "id": 5,
+            "title": "MAGIC, MAGIC EVERYWHERE",
+            "path": "./Chapters/Ch005/Ch005.txt"
+        },    
+        {
+            "id": 6,
+            "title": "CASUALTY OF IGNORED WARNINGS",
+            "path": "./Chapters/Ch006/Ch006.txt"
+        }       
+    ]
+}
